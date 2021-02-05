@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo>
+	<param key="APP_TYPE">0</param>
+	<param key="APP_VER">01.00</param>
+  <param key="ATTRIBUTE">18</param>
+  <param key="ATTRIBUTE2">2</param>
+	<param key="CATEGORY">gde</param>
+	<param key="CONTENT_ID">UP0001-SSNE20000_00-0000000000000001</param>
+	<param key="DOWNLOAD_DATA_SIZE">0</param>
+	<param key="FORMAT">obs</param>
+	<param key="PARENTAL_LEVEL">1</param>
+	<param key="SYSTEM_VER">1020</param>
+	<param key="TITLE">RetroArch Cores Installer</param>
+	<param key="TITLE_ID">SSNE20000</param>
+	<param key="VERSION">01.00</param>
+</paramsfo>
